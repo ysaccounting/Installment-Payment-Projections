@@ -353,7 +353,7 @@ def generate_report_bytes(file_bytes):
 st.markdown("""
 <div class="hero">
     <h1>🎟️ Installment<br><em>Projections</em></h1>
-    <p>Drop in a General Ledger export and get your formatted report instantly.</p>
+    <p>Load the ticket credit general ledger from QBO to create an installment projectoin report</p>
 </div>
 """, unsafe_allow_html=True)
 
