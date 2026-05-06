@@ -1,6 +1,6 @@
 """
 Y&S Tickets — Installment Projections  (Streamlit app)
-Drop in one or more General Ledger files, download formatted reports.
+Drop in one or more (or consolidated) General Ledger files, download formatted reports.
 """
 
 import io, re
